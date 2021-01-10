@@ -9,4 +9,4 @@ A simulation I created from scratch, that illustrates the concept of scanning me
 
 **termcolor** (for colors)
 
-My website: http://bit.do/SHUR1KN
+My website: https://TheComputerNoob.com
